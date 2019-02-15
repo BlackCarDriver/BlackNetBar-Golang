@@ -1,0 +1,7 @@
+this is a note describe about the stdrand of this program:
+
+usertupe :
+1 : administrator
+2 : normal user
+-1: new user
+
